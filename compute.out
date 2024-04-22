@@ -1,0 +1,18 @@
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3308
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [25/Oct/2023 16:35:24] "POST /start/ HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2023 16:37:24] "POST /start/ HTTP/1.1" 200 -
+127.0.0.1 - - [29/Oct/2023 09:58:33] "[33mGET /backend/plugins/element-ui/index.css HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:33] "[33mGET /backend/styles/common.css HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:33] "[33mGET /backend/styles/icon/iconfont.css HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:33] "[33mGET /backend/images/login/login-logo.png HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:33] "[33mGET /backend/images/icons/btn_close@2x.png HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:33] "[33mGET /backend/plugins/vue/vue.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:33] "[33mGET /backend/plugins/element-ui/index.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:33] "[33mGET /backend/plugins/axios/axios.min.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:33] "[33mGET /backend/js/request.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:33] "[33mGET /backend/api/login.js HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:38] "[33mGET /backend/index.html HTTP/1.1[0m" 404 -
+127.0.0.1 - - [29/Oct/2023 09:58:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
